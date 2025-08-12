@@ -1,0 +1,68 @@
+﻿  sort.cpp
+C:\Users\LEGION\Desktop\排序\sort.cpp(43,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\LEGION\Desktop\排序\sort.cpp(80,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\LEGION\Desktop\排序\sort.cpp(103,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\LEGION\Desktop\排序\sort.cpp(158,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\LEGION\Desktop\排序\sort.cpp(166,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\LEGION\Desktop\排序\sort.cpp(167,32): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\LEGION\Desktop\排序\sort.cpp(184,38): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\LEGION\Desktop\排序\sort.cpp(194,33): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\LEGION\Desktop\排序\sort.cpp(239,33): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\LEGION\Desktop\排序\sort.cpp(311,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\LEGION\Desktop\排序\sort.cpp(361,37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\LEGION\Desktop\排序\sort.cpp(447,27): warning C4244: “+=”: 从“_Rep”转换到“int”，可能丢失数据
+C:\Users\LEGION\Desktop\排序\sort.cpp(447,27): warning C4244:         with
+C:\Users\LEGION\Desktop\排序\sort.cpp(447,27): warning C4244:         [
+C:\Users\LEGION\Desktop\排序\sort.cpp(447,27): warning C4244:             _Rep=__int64
+C:\Users\LEGION\Desktop\排序\sort.cpp(447,27): warning C4244:         ]
+C:\Users\LEGION\Desktop\排序\sort.cpp(459,27): warning C4244: “+=”: 从“_Rep”转换到“int”，可能丢失数据
+C:\Users\LEGION\Desktop\排序\sort.cpp(459,27): warning C4244:         with
+C:\Users\LEGION\Desktop\排序\sort.cpp(459,27): warning C4244:         [
+C:\Users\LEGION\Desktop\排序\sort.cpp(459,27): warning C4244:             _Rep=__int64
+C:\Users\LEGION\Desktop\排序\sort.cpp(459,27): warning C4244:         ]
+C:\Users\LEGION\Desktop\排序\sort.cpp(471,27): warning C4244: “+=”: 从“_Rep”转换到“int”，可能丢失数据
+C:\Users\LEGION\Desktop\排序\sort.cpp(471,27): warning C4244:         with
+C:\Users\LEGION\Desktop\排序\sort.cpp(471,27): warning C4244:         [
+C:\Users\LEGION\Desktop\排序\sort.cpp(471,27): warning C4244:             _Rep=__int64
+C:\Users\LEGION\Desktop\排序\sort.cpp(471,27): warning C4244:         ]
+C:\Users\LEGION\Desktop\排序\sort.cpp(483,27): warning C4244: “+=”: 从“_Rep”转换到“int”，可能丢失数据
+C:\Users\LEGION\Desktop\排序\sort.cpp(483,27): warning C4244:         with
+C:\Users\LEGION\Desktop\排序\sort.cpp(483,27): warning C4244:         [
+C:\Users\LEGION\Desktop\排序\sort.cpp(483,27): warning C4244:             _Rep=__int64
+C:\Users\LEGION\Desktop\排序\sort.cpp(483,27): warning C4244:         ]
+C:\Users\LEGION\Desktop\排序\sort.cpp(495,27): warning C4244: “+=”: 从“_Rep”转换到“int”，可能丢失数据
+C:\Users\LEGION\Desktop\排序\sort.cpp(495,27): warning C4244:         with
+C:\Users\LEGION\Desktop\排序\sort.cpp(495,27): warning C4244:         [
+C:\Users\LEGION\Desktop\排序\sort.cpp(495,27): warning C4244:             _Rep=__int64
+C:\Users\LEGION\Desktop\排序\sort.cpp(495,27): warning C4244:         ]
+C:\Users\LEGION\Desktop\排序\sort.cpp(507,27): warning C4244: “+=”: 从“_Rep”转换到“int”，可能丢失数据
+C:\Users\LEGION\Desktop\排序\sort.cpp(507,27): warning C4244:         with
+C:\Users\LEGION\Desktop\排序\sort.cpp(507,27): warning C4244:         [
+C:\Users\LEGION\Desktop\排序\sort.cpp(507,27): warning C4244:             _Rep=__int64
+C:\Users\LEGION\Desktop\排序\sort.cpp(507,27): warning C4244:         ]
+C:\Users\LEGION\Desktop\排序\sort.cpp(519,27): warning C4244: “+=”: 从“_Rep”转换到“int”，可能丢失数据
+C:\Users\LEGION\Desktop\排序\sort.cpp(519,27): warning C4244:         with
+C:\Users\LEGION\Desktop\排序\sort.cpp(519,27): warning C4244:         [
+C:\Users\LEGION\Desktop\排序\sort.cpp(519,27): warning C4244:             _Rep=__int64
+C:\Users\LEGION\Desktop\排序\sort.cpp(519,27): warning C4244:         ]
+C:\Users\LEGION\Desktop\排序\sort.cpp(531,27): warning C4244: “+=”: 从“_Rep”转换到“int”，可能丢失数据
+C:\Users\LEGION\Desktop\排序\sort.cpp(531,27): warning C4244:         with
+C:\Users\LEGION\Desktop\排序\sort.cpp(531,27): warning C4244:         [
+C:\Users\LEGION\Desktop\排序\sort.cpp(531,27): warning C4244:             _Rep=__int64
+C:\Users\LEGION\Desktop\排序\sort.cpp(531,27): warning C4244:         ]
+C:\Users\LEGION\Desktop\排序\sort.cpp(543,27): warning C4244: “+=”: 从“_Rep”转换到“int”，可能丢失数据
+C:\Users\LEGION\Desktop\排序\sort.cpp(543,27): warning C4244:         with
+C:\Users\LEGION\Desktop\排序\sort.cpp(543,27): warning C4244:         [
+C:\Users\LEGION\Desktop\排序\sort.cpp(543,27): warning C4244:             _Rep=__int64
+C:\Users\LEGION\Desktop\排序\sort.cpp(543,27): warning C4244:         ]
+C:\Users\LEGION\Desktop\排序\sort.cpp(555,27): warning C4244: “+=”: 从“_Rep”转换到“int”，可能丢失数据
+C:\Users\LEGION\Desktop\排序\sort.cpp(555,27): warning C4244:         with
+C:\Users\LEGION\Desktop\排序\sort.cpp(555,27): warning C4244:         [
+C:\Users\LEGION\Desktop\排序\sort.cpp(555,27): warning C4244:             _Rep=__int64
+C:\Users\LEGION\Desktop\排序\sort.cpp(555,27): warning C4244:         ]
+C:\Users\LEGION\Desktop\排序\sort.cpp(567,28): warning C4244: “+=”: 从“_Rep”转换到“int”，可能丢失数据
+C:\Users\LEGION\Desktop\排序\sort.cpp(567,28): warning C4244:         with
+C:\Users\LEGION\Desktop\排序\sort.cpp(567,28): warning C4244:         [
+C:\Users\LEGION\Desktop\排序\sort.cpp(567,28): warning C4244:             _Rep=__int64
+C:\Users\LEGION\Desktop\排序\sort.cpp(567,28): warning C4244:         ]
+  排序.vcxproj -> C:\Users\LEGION\Desktop\排序\x64\Debug\排序.exe
